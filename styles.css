@@ -73,6 +73,7 @@ header .logo span{
 .navbar a:hover{
     color: #df8908;
     text-decoration: underline;
+    font-size: 2.3rem;
 }
 .navbar span{
     font-size: 3rem;
